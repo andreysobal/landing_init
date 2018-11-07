@@ -1,0 +1,49 @@
+/*main style module*/
+
+* {
+	padding: 0;
+	margin: 0;
+	-webkit-margin-before: 0;
+	-webkit-margin-after: 0;
+	-webkit-margin-start: 0;
+	-webkit-margin-end: 0;
+	-webkit-padding-before: 0;
+	-webkit-padding-after: 0;
+	-webkit-padding-start: 0;
+	-webkit-padding-end: 0;
+	box-sizing: border-box;
+}
+html, 
+body {
+	text-align: center;
+	width: 100vw;
+	height: auto;
+	position: relative;
+}
+
+/*adaptivity*/
+	/*mobile*/
+	@media only screen and (min-width: 320px) {
+		
+	}
+	/*tablets*/
+	@media only screen and (min-width: 768px) {
+		
+	}
+	/*desktop or tablets in landscape*/
+	@media only screen and (min-width: 1000px) {
+		
+	}
+
+	/*wideview monitor*/
+	@media only screen and (min-width: 1441px) {
+
+	}
+
+	/*supperwide view monitor*/
+	@media only screen and (min-width: 1920px) {
+		
+	}
+
+
+@import "main";
